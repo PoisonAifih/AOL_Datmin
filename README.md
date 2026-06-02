@@ -1,0 +1,14 @@
+# URL Sources
+- SIPSN → Komposisi Sampah
+  - https://sampahnasional.kemenlh.go.id/indikatif/public/data/komposisi
+- SIPSN → Timbulan Sampah
+  - https://sampahnasional.kemenlh.go.id/indikatif/public/data/timbulan
+- BPS → Penduduk per Kab/Kota
+  - https://www.bps.go.id/en/statistics-table/3/V1ZSbFRUY3lTbFpEYTNsVWNGcDZjek53YkhsNFFUMDkjMyMwMDAw/population--population-growth-rate--percentage-distribution-of-population--population-density--and-population-sex-ratio-by-province.html?year=2026
+  - https://www.bps.go.id/en/statistics-table/2/MTQxIzI=/population-density-by-province.html
+- BPS → PDRB Kab/Kota 2020–2024
+  - https://www.bps.go.id/id/publication/2025/06/10/ca543e942579ced46afd603b/produk-domestik-regional-bruto-kabupaten-kota-di-indonesia-2020-2024.html
+- BPS → Kode Wilayah
+  - https://sig.bps.go.id/bridging-kode/index
+- PELITA Kemendagri → Penduduk
+  - https://pelita.kemendagri.go.id/kemendagri/dataset/257/tabel-data
